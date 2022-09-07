@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radu</h1>
-<h3 align="center">A passionate frontend web developer from Romania with a burning desire for continuous self-improvement</h3>
+<h3 align="center">A passionate front-end web developer from Romania with a burning desire for continuous self-improvement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prcwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="prcwebdev" /> </p>
 
