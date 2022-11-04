@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Radu</h1>
-<h3 align="center">A passionate Front-end Web Developer from Romania with a burning desire for continuous self-improvement</h3>
+<h1 align="center">Hi, I'm Radu 👋</h1>
+<h3 align="center">A passionate Front-end Web Developer from Romania with a burning desire for continuous self-improvement 🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prcwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="prcwebdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prcwebdev" alt="prcwebdev" /></a> </p>
 
-- 🚧 I’m currently working on my portfolio website
-
 - 🚀 I’m currently learning **in-depth JavaScript**
+
+- 🚧 I’m currently working on my portfolio website
 
 - 👀 All of my projects are available at [https://github.com/PRCWebDev](https://github.com/PRCWebDev)
 
