@@ -1,20 +1,19 @@
+<h3 align="center">Hi, I'm Radu 👋</h3>
+<h4 align="center">An enthusiastic Front-end Web Developer with a burning desire for continuous self-improvement 🔥</h4>
 <div style="display: flex; justify-content: center">
   <p align="center">
     <img
       alt="Coding"
       width="500"
-      src="https://media.licdn.com/dms/image/C5112AQE8ThPkmol2Jg/article-cover_image-shrink_600_2000/0/1584093171155?e=2147483647&v=beta&t=kAVZ0l9rFDV5Kjg6u7ZRkh22MuY_fWeG4cPNBjAn5kE"
+      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
     />
   </p>
 </div>
 
-<h3 align="center">Hi, I'm Radu 👋</h3>
-
-<h3 align="center">An enthusiastic Front-end Web Developer with a burning desire for continuous self-improvement 🔥</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prcwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="prcwebdev" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prcwebdev" alt="prcwebdev" /></a> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prcwebdev" alt="prcwebdev" /></a> </p>
+</p>
 
 - 🚀 I’m currently learning **in-depth JavaScript**
 
@@ -31,13 +30,23 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-<p>⚡ JavaScript basics</p>
-<p>⚡ HTML 5</p>
-<p>⚡ CSS 3</p>
+<p>⚡ JavaScript</p>
+<p>⚡ HTML5</p>
+<p>⚡ CSS3</p>
+<p>⚡ Git & GitHub & GitLab</p>
 <p>⚡ Markdown</p>
 <p>⚡ Visual Studio Code</p>
 <p>⚡ Chrome Developer Tools</p>
-<p>⚡ Git & GitHub basics</p>
+
+<div style="display: flex; justify-content: center">
+  <p align="center">
+    <img
+      alt="Coding"
+      width="500"
+      src="https://media.licdn.com/dms/image/C5112AQE8ThPkmol2Jg/article-cover_image-shrink_600_2000/0/1584093171155?e=2147483647&v=beta&t=kAVZ0l9rFDV5Kjg6u7ZRkh22MuY_fWeG4cPNBjAn5kE"
+    />
+  </p>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prcwebdev&show_icons=true&locale=en&layout=compact" alt="prcwebdev" /></p>
 
