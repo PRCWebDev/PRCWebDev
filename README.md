@@ -1,3 +1,13 @@
+<div style="display: flex; justify-content: center">
+  <p align="center">
+    <img
+      alt="Coding"
+      width="500"
+      src="https://media.licdn.com/dms/image/C5112AQE8ThPkmol2Jg/article-cover_image-shrink_600_2000/0/1584093171155?e=2147483647&v=beta&t=kAVZ0l9rFDV5Kjg6u7ZRkh22MuY_fWeG4cPNBjAn5kE"
+    />
+  </p>
+</div>
+
 <h3 align="center">Hi, I'm Radu 👋</h3>
 
 <h3 align="center">An enthusiastic Front-end Web Developer with a burning desire for continuous self-improvement 🔥</h3>
@@ -13,12 +23,6 @@
 - 👀 All of my projects are available at [https://github.com/PRCWebDev](https://github.com/PRCWebDev)
 
 - 📫 How to reach me **https://www.linkedin.com/in/radu-cosmin-pugna/**
-
-<div style="display: flex; justify-content: center;">
-    <p align="center">
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
